@@ -1,4 +1,7 @@
 # FreeCAD for Raspberry Pi
+
+[![badge](https://github.com/Botspot/pi-apps/blob/master/icons/badge.png?raw=true)](https://github.com/Botspot/pi-apps)  
+
 FreeCAD is a free and open-source parametric modeler. 
 
 The original FreeCAD in the Raspberry Pi Foundation repositories is outdated. I've created this repository so that I can share the latest .deb file that actually works with everyone.
