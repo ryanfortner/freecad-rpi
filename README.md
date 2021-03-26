@@ -13,4 +13,4 @@ Installing is quite easy, just download the latest .deb file [here](https://gith
 If you'd like to package FreeCAD for ARM on your own, click [here](https://github.com/chunky-milk/freecad-rpi/blob/main/PACKAGE.md).
 
 ## Future Goals
-I'm working on an automatic build system for this. If you'd like to assist please don't hesistate to message me on Discord: chunkymilk0309#3309.
+I'm working on an automatic build system for this. If you'd like to assist please don't hesistate to message me on Discord: chunkymilk0309#3309. Currently the only problem I have is that the deb file is too large to host myself.
