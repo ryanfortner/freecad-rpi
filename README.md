@@ -1,5 +1,7 @@
 # FreeCAD for Raspberry Pi
 
+#### Notice: only compatible with PiOS bullseye 32-bit for now.
+
 [![badge](https://github.com/Botspot/pi-apps/blob/master/icons/badge.png?raw=true)](https://github.com/Botspot/pi-apps)  
 
 ## Now available in [my apt repository](https://github.com/raspbian-addons/raspbian-addons) with packagename `freecad-buster`
