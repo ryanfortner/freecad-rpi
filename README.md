@@ -1,6 +1,6 @@
 # FreeCAD for Raspberry Pi
 
-#### Notice: only compatible with PiOS bullseye 32-bit for now.
+#### Notice: only compatible with PiOS buster 32-bit for now.
 
 [![badge](https://github.com/Botspot/pi-apps/blob/master/icons/badge.png?raw=true)](https://github.com/Botspot/pi-apps)  
 
